@@ -1,0 +1,3 @@
+creating a file to execute pull command in local repo
+i cannot push from local repo until i download the changes done in my remote repo to local repo
+local repo must be in sync with remote repo before pushing
